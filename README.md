@@ -1,19 +1,16 @@
 # calendar
+#### 介绍
+基于Vue.js+ElementUI 日程管理网站前端
 
-## Project setup
-```
-npm install
-```
+小白练手项目
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+前端地址：https://github.com/rustylancet/calendar
+后端地址：https://github.com/rustylancet/calendar_back
+#### 安装教程
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1.  npm install 
+2.  npm run serve
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+git push -u origin main
+
