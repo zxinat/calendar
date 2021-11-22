@@ -329,12 +329,13 @@
   .Home {
     background-color: #f5f7fb;
     width: calc(100vw);
-    height: calc(100vh);
+    height: calc(100vh - 80px);
     overflow: hidden;
 
     .content {
       margin: 20px;
-      height: calc(100vh - 80px);
+      height: 100%;
+      // width: 100%;
 
       .left {
         width: 25%;
@@ -569,7 +570,8 @@
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 0px 5px 11px #f1f1f1;
-     .status-point {
+
+    .status-point {
       display: inline-block;
       width: 13px;
       height: 13px;
